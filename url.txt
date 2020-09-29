@@ -5,3 +5,26 @@ https://qiita.com/EisKern/items/15dcf7864fa49df8f247
 
 git 登録
 https://qiita.com/sodaihirai/items/caf8d39d314fa53db4db
+
+
+
+https://github.com/LungTel/i_chart_ec.git
+
+https://(user name).github.io/(repository name)/
+https://LungTel.github.io/i_chart_ec.git
+
+
+Init Message
+…or create a new repository on the command line
+echo "# i_chart_ec" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/LungTel/i_chart_ec.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/LungTel/i_chart_ec.git
+git branch -M master
+git push -u origin master
