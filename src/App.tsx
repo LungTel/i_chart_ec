@@ -8,7 +8,7 @@ import BarPlot from "./components/BarPlot";
 function App() {
   return (
     <div className="App">
-      <h1>泉平2020秋冬新商品お試しサポート提案会 簡易表</h1>
+      <h1>2020秋冬新商品お試しサポート提案会 簡易表</h1>
       <br />
       <PiePlot />
       <br />
