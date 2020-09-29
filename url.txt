@@ -11,7 +11,7 @@ https://qiita.com/sodaihirai/items/caf8d39d314fa53db4db
 https://github.com/LungTel/i_chart_ec.git
 
 https://(user name).github.io/(repository name)/
-https://LungTel.github.io/i_chart_ec.git
+https://LungTel.github.io/i_chart_ec
 
 
 Init Message
